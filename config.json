@@ -1,6 +1,6 @@
 {
   
-  "default_prefix": "^",// what prefix do you like i like ^ cos it looks like a A
+  "default_prefix": "^",
     "owners": "751774318320549910",
     
 
@@ -13,7 +13,7 @@
         "success": "☑️",
         "repeat": "🔁",
         "error": "❌",
- "YOUTUBE_API_KEY": "put yt data api", // 
+ "YOUTUBE_API_KEY": "AIzaSyATj1EMHGQt7qhuFbTtTBKiU1_9dILVJzg", // 
  "premium": "751774318320549910",
  "PREFIX": "!",
  "mongodb": "", //no need ?
